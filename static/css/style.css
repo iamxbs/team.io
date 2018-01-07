@@ -1,0 +1,16 @@
+table{
+    border-spacing: 0!important;
+}
+.calendar{
+    padding:16px
+}
+.baiduMapTips {
+    padding: 15px!important;
+    border: 0;
+    background: #fff;
+}
+
+.baiduMapTips .name {
+    color: #CC5522;
+    font-weight: bold;
+}
